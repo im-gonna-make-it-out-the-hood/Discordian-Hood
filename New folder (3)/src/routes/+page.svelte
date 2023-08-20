@@ -82,7 +82,7 @@
   
   <div class="container">
     <div class="header">
-      <div class="logo">Discordian Hood</div>
+      <div class="logo">Discordian Hood [WIP]</div>
       <div class="tabs">
         <a href="#" class="tab {activeTab === 'home' ? 'active' : ''}" on:click={() => changeTab('home')}>Home</a>
         <a href="#" class="tab {activeTab === 'buy' ? 'active' : ''}" on:click={() => changeTab('buy')}>Buy</a>
