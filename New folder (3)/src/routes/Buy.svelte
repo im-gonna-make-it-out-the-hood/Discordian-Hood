@@ -150,7 +150,7 @@
   <h2>Discordian Hood | Auto Bypasser Bot</h2>
   <p>The #1 most helpful tool for bypassing!</p>
   <div class="sellix-button2">
-    <a href="#" style="padding: 15px 32px; text-align: center; font-size: 16px; font-weight: 900; cursor: pointer; border-style: solid; border-color: lightgrey; border-width: 1px; border-radius: 5px; background-color: #9370DB; color: white;">Purchase</a>
+    <a href="https://Discordian-Hood.sellix.io/product/64e2a41889984" style="padding: 15px 32px; text-align: center; font-size: 16px; font-weight: 900; cursor: pointer; border-style: solid; border-color: lightgrey; border-width: 1px; border-radius: 5px; background-color: #9370DB; color: white;">Purchase</a>
   </div>
 </div>
 
